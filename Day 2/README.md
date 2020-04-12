@@ -3,6 +3,7 @@
 
 ## <u>PIAIC</u>
 <img src = "0.png"> [piaic.org]() </img>
+
  Completed 1st online class(due to Covid-19) of PIAIC using ZOOM. Learned about basics of Numpy and it's importance(Which I already knew).
 
 
