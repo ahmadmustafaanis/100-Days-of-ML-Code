@@ -12,8 +12,7 @@
 
 
 
-## <u>Deep Learning with Python Book by 
-francois chollet </u>
+## <u>Deep Learning with Python Book by francois chollet </u>
 <img src = "3.png"></img>
  Completed Chapter # 1 of Deep Learning book by francois chollet who is creator Keras which I am eager to learn(havent started yet). I got very high level intuitions about some machine learning algorithms such as decision trees, random forests and gradient boosting machines. Also i learned about why deep learning is different, important and why it is getting famous now.
 
