@@ -13,4 +13,4 @@
 Learned about how to clean mislabbeld images in dataset, how to add valueable information instead of that mislabbeled images.
 
 ----
-I am on a break from some times but thinkning of starting a kaggle competiton where I will use all the skills I have learned so far in practical manner. I will start from bottom like titanic data set and aim to become a Kaggle grandmaster Inshallah.!
+I am on a break from some times using some Modern framework like TensorFlow or Keras but thinkning of starting a kaggle competiton where I will use all the skills I have learned so far in practical manner. I will start from bottom like titanic data set and aim to become a Kaggle grandmaster Inshallah.!
